@@ -1,7 +1,7 @@
 # Hi there, I'm Aish Soni! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Community+Builder;Always+Learning+%26+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Community+Builder;Always+Learning+%26+Building!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -85,10 +85,6 @@ Ongoing research exploring advanced NeRF techniques for 3D scene reconstruction.
 - **Status:** Active research with regular experimentation and iteration
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AishSoni&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishSoni&theme=radical&hide_border=true" alt="GitHub Streak" />
