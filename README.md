@@ -1,4 +1,4 @@
-# Hi there, I'm Aish! 👋
+# Hi there, I'm Aishh! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Generative+AI+Builder;Community+Leader;Always+Learning+%26+Building!" alt="Typing SVG" />
@@ -55,17 +55,17 @@ I thrive at the intersection of **software engineering and AI**, and I’m excit
 
 ## 🌟 Featured Projects
 
-### 🔍 [Narada AI – Deep Research Agent](https://github.com/AishSoni/Narada-AI)
+### 🔍 [Narada AI – Deep Research Agent](https://github.com/AishhSoni/Narada-AI)
 Privacy-first research assistant combining RAG, LangGraph, and local knowledge bases.  
 - **Stack:** Next.js, LangGraph, Qdrant, Docker  
 - **Impact:** Improved research reliability by **60%** and reduced API costs by **85%**, enabling scalable knowledge synthesis with citations.  
 
-### 🎨 [Imagyn MCP Server](https://github.com/AishSoni/Imagyn)
+### 🎨 [Imagyn MCP Server](https://github.com/AishhSoni/Imagyn)
 Model Context Protocol server for natural language image generation & editing.  
 - **Stack:** Python, ComfyUI, Replicate API, Fal.ai  
 - **Impact:** Reduced API costs by **90%** with offline deployment, improved generation speeds by **25%**, enabling hybrid private-cloud setups.  
 
-### 🏫 [IIIT Bhopal Connect](https://github.com/AishSoni/iiit-bpl-connect)
+### 🏫 [IIIT Bhopal Connect](https://github.com/AishhSoni/iiit-bpl-connect)
 Campus-wide platform connecting 1,200+ students with resources and events.  
 - **Stack:** React, Next.js, Firebase  
 - **Impact:** Streamlined event scheduling for **20+ events** and boosted career readiness via AI-powered resume/cover letter tools (45% accuracy gain).  
@@ -75,7 +75,7 @@ Multilingual, multimodal chatbot with crisis intervention.
 - **Stack:** Python, OpenAI API, Speech Recognition  
 - **Impact:** Provided accessible, voice-enabled support for hackathon users across multiple languages.  
 
-### ⚡ [Real-Time Cloth Simulation](https://github.com/AishSoni/cloth-simulation)
+### ⚡ [Real-Time Cloth Simulation](https://github.com/AishhSoni/cloth-simulation)
 Physics-based cloth simulation engine.  
 - **Stack:** C++, SDL2, ImGui  
 - **Impact:** Demonstrated complex physics + graphics rendering in real time.  
@@ -111,9 +111,9 @@ Ongoing exploration of efficient NeRF techniques for 3D scene reconstruction.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aish-soni15/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AishSoni)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishsoni15@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aishh-soni15/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AishhSoni)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aishhsoni15@gmail.com)  
 
 </div>
 
