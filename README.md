@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Aishh-soni15/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aish-soni15/">LinkedIn</a> ·
   <a href="https://github.com/AishSoni">GitHub</a> ·
-  <a href="mailto:Aishhsoni15@gmail.com">Email</a>
+  <a href="mailto:aishsoni15@gmail.com">Email</a>
 </p>
 
 ---
